@@ -1,5 +1,5 @@
 @import url(https://fonts.googleapis.com/css?family=Roboto);html{height:100%;}
-body:before{content:"";height:0px;padding:0px;border:110em solid #313440;position:absolute;left:50%;top:100%;z-index:2;display:block;-webkit-border-radius:50%;border-radius:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);-webkit-animation:puff 0.5s 1.8s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards, borderRadius 0.2s 2.3s linear forwards;animation:puff 0.5s 1.8s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards, borderRadius 0.2s 2.3s linear forwards;}
+body:before{background:000#content:"";height:0px;padding:0px;border:110em solid #313440;position:absolute;left:50%;top:100%;z-index:2;display:block;-webkit-border-radius:50%;border-radius:50%;-webkit-transform:translate(-50%, -50%);transform:translate(-50%, -50%);-webkit-animation:puff 0.5s 1.8s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards, borderRadius 0.2s 2.3s linear forwards;animation:puff 0.5s 1.8s cubic-bezier(0.55, 0.055, 0.675, 0.19) forwards, borderRadius 0.2s 2.3s linear forwards;}
 h1, h2{font-weight:500;margin:0px 0px 5px 0px;}
 h1{font-size:24px;}
 h2{font-size:16px;}
