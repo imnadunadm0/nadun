@@ -1,0 +1,29 @@
+/* Bring FROM PRASAD.KMD™ */
+
+.iconsocial{
+    transform: scale(1);
+  }
+.iconsocial:hover{
+    transform: scale(2);
+    transition-duration: 2s;
+    
+  }
+.headerhome1{
+    transform:scale(1);
+
+}
+.headerhome1:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+}
+.iconsocial2{
+    transform: scale(1);
+  }
+.iconsocial2:hover{
+    transform: scale(1.2);
+    transition-duration: 2s;
+    
+  }
+.text001{
+  color: blueviolet;
+}
