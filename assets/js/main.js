@@ -264,3 +264,7 @@
   });
 
 })()
+
+* {margin: 0; padding: 0}
+body {background: #000;}
+canvas {display: block;}
