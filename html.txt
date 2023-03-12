@@ -1,0 +1,3 @@
+<video id='hls-example'  class="video-js vjs-default-skin" width="460" height="320" controls>
+    <source type="application/x-mpegURL" src="https://tv.lotustechnologieslk.net:1936/8012/8012/playlist.m3u8">
+    </video>
